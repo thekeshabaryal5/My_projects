@@ -150,4 +150,3 @@ char *_month(int month)
         break;
 
     }
-}
